@@ -35,7 +35,7 @@ The primary objective of this project is to analyse the sales data from SparkleS
 ---
 
 ## 🧪 Pre-Analysis
-**Initial Insights: **
+## Initial Insights:
 1. Identify the most preferred payment method
 2. Ensure consistent stock availability for top-selling products
 3. Recognize and sustain the best-performing region
@@ -47,7 +47,7 @@ The primary objective of this project is to analyse the sales data from SparkleS
 ---
 
 ## 📊 In-Analysis
-**Key Findings: **
+## Key Findings:
 1. Best Sales Rep: David – £1,141,737.36
 2. Least Performing Rep: Charlie – £860,811.48
 3. Top Company: Company J – £658,358.21
